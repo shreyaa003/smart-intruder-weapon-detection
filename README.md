@@ -1,6 +1,4 @@
 # 🔐 Smart Intruder and Weapon Detection System
-![Intruder Alert](images/knife.jpg)
-![Known Face](images/known.png)
 
 A real-time security system that detects unauthorized individuals and identifies weapons using computer vision, with instant alerts via mobile.
 
@@ -44,6 +42,12 @@ It captures video input, detects motion, identifies the person and the presence 
 | Arduino | Hardware interfacing |
 | Blynk | Real-time alerting |
 | Tkinter | GUI application |
+
+---
+
+## 📲 Output Snapshots
+
+![Intruder Alert](images/knife.jpg) ![Known Face](images/known.png)
 
 ---
 
