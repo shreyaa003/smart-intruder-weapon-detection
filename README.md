@@ -1,5 +1,5 @@
 # 🔐 Smart Intruder and Weapon Detection System
-![Intruder Alert](images/knife.png)
+![Intruder Alert](images/knife.jpg)
 ![Known Face](images/known.png)
 
 A real-time security system that detects unauthorized individuals and identifies weapons using computer vision, with instant alerts via mobile.
